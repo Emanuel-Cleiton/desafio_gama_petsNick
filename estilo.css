@@ -1,19 +1,25 @@
-.nav{
+.menu {
+    background-color: rgba(59, 10, 175, 0.527);
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: tomato;
+    color:rgba(245, 240, 240, 0.637);
+   
 
+}
+a{
+    text-decoration: none;
 }
 .carrinho{
     text-align: left;
-    color: yellow;
+    
 
 }
 h1 {
     text-align: center;
-     color:  red;
+     color:  rgba(153, 0, 255, 0.753);
     font-family: Arial, Helvetica, sans-serif;
+    border-color: black;
+    border-style:10px, solid ;
 }
 .paragrafo1{
     text-align: center;
@@ -21,13 +27,11 @@ h1 {
     color: blue;
     font-family: Arial, Helvetica, sans-serif;
 }
-.principalimg{
-    width: 500px;
-    text-align: center;
+.fotosdog{
+    width: 100px;
     
-}
-.imgNick{
-    width:500px ;
+   
+
 }
 .racão{
     width: 600px;
