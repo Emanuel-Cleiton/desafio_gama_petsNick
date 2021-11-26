@@ -2,56 +2,92 @@
     background-color: rgba(59, 10, 175, 0.527);
     font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
-    color:rgba(245, 240, 240, 0.637);
+    color:black;
 }
  a   {text-decoration: none;
 }
 
 h1 {
     text-align: center;
-    color:  rgba(153, 0, 255, 0.753);
+    color:  rgba(77, 8, 122, 0.753);
     font-family: Arial, Helvetica, sans-serif;
     border-color: black;
     border-style:10px, solid ;
 }
 .paragrafo1{
     text-align: center;
-    font-size: 35px;
-    color: blue;
+    font-size: 20px;
+    color:rgba(23, 1, 77);
     font-family: Arial, Helvetica, sans-serif;
 }
-
-.rodape{
-    color: blue;
-    text-align: center;
-    font-size: 30px;
+.imgNick{
+    margin-right: 80px;
+    margin-left: 50px;
 }
+.dogbranco{
+    margin-right: 90px;
 
+}
 
 .contatos{
     width: 700px;
     margin: 100px;
     font-family: 'Times New Roman', Times, serif;
-    color: blue;
+    color: rgb(23, 1, 77);
     font-size: 20px;
+}
 
+.subtitulo {
+    color: rgb(23, 1, 77);
+    font-size:35px;
+    text-align: center;
 }
-.h3{
-    color: chartreuse;
-    font-size: 20px;
-}
+
 .principalimg{
 
     display: flex;
     margin-left: auto;
     margin-right: auto; 
 }
-.imgNick{
-    display: flex;
-    margin-left: 0px;
-   
+
+.racao1{
+    margin-right: 300px;
+    margin-left: 100px;
 }
-.dogbranco{
-    display: flex;
-    margin-right: 0px; 
+
+.racao2{
+    margin-right: 430px;
+    margin-left: 100px;
 }
+
+.brinquedo{
+    margin-right: 300px;
+    margin-left: 100px;
+}
+
+.petiscos{
+    margin-right: 300px;
+    margin-left: 100px;
+}
+
+.sobre{
+    font-size: 25px;
+    color:rgba(23, 1, 77,)
+}
+
+.descricao{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-left: 100px;
+    text-align: justify;
+}
+
+.rodape{
+    color:rgb(23, 1, 77);
+    text-align: center;
+    font-size: 20px;
+}
+html{
+    background-color:rgb(204, 198, 198);
+}
+
